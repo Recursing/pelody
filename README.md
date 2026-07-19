@@ -1,6 +1,6 @@
-# Pelody
+# [Pelody](https://recursing.github.io/pelody/)
 
-Vibe coded homage to *Pel* (scriptedfun, Armor Games 2008): a paddle on 3 lanes juggling glowing
+Vibe coded homage to [*Pel* (scriptedfun, Armor Games 2008)](https://armorgames.com/play/2011/pel): a paddle on 3 lanes juggling glowing
 balls — except here **the balls play the song**. Every catch sounds the next melody note
 exactly on the beat. Misses just mute a note; the music never stops.
 
